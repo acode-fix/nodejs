@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "date-fns": "^3.6.0"
+  },
+  "name": "tester",
+  "version": "1.0.0",
+  "description": "to teach   nodejs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon  index"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "acodefix",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
